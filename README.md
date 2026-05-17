@@ -141,17 +141,6 @@ Transformerless-Power-Supply/
 └── README.md
 ```
 
----
-
-## 📸 Recommended Images for Repository
-
-Add these images inside the `images/` folder:
-
-- Schematic Screenshot
-- PCB Layout
-- 3D PCB View
-- Fabricated PCB
-- Testing Setup
 
 ---
 
