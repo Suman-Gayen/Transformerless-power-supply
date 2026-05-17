@@ -26,7 +26,7 @@ The circuit is designed for low-power electronic applications where compact size
 
 ---
 
-## ⚙ Features
+## ⚙ Features 
 
 - AC to DC conversion
 - 5V regulated DC output
