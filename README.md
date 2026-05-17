@@ -20,8 +20,6 @@ The circuit is designed for low-power electronic applications where compact size
 
 ## 🖼 Project Schematic
 
-> Add your schematic image here
-
 ```md
 ![Transformerless Power Supply Schematic](images/schematic.png)
 ```
